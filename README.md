@@ -1,0 +1,1 @@
+Projeto dedicado ao estudo de React
